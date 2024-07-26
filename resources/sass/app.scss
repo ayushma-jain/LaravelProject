@@ -1,0 +1,28 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+html,body{
+    height: 100%;
+}
+#sidebarMenu{
+    height: 100%;
+}
+body{
+    font-family: Verdana, sans-serif;
+}
+
+.creditCardDetailDiv{
+    width:50%;
+    padding: 40px;
+    margin: 40px auto;
+}
+label{
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
